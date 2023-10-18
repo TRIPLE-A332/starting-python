@@ -9,7 +9,7 @@ c="5"
 c_numbers = int(c)
 print("extrinsic type casting performed on", c_numbers)
 
-d= input("Enter your age ")
+d= int(input("Enter your age "))
 print("your age is", d)
 
 e = input("initial letter of youe name ")
